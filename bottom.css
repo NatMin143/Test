@@ -5,6 +5,10 @@
 
 .legal-notice-content{
     padding-top: 30px;
+    width: 100%;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
 }
 
 .legal-notice p{
