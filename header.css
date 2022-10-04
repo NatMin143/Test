@@ -2,7 +2,7 @@
 }
 
 .top-header{
-    background-image: url("/myschoolclonehtml/images/bgheader.png");
+    background-image: url("/images/bgheader.png");
     height: 80px;
 
 }
@@ -13,7 +13,7 @@
 }
 
 .low-header{
-    background-image: url("/myschoolclonehtml/images/lh_bg.png") ;
+    background-image: url("/images/lh_bg.png") ;
     height: 20px;
     margin-bottom: 25px;
 }
