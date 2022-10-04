@@ -1,0 +1,116 @@
+.profile-info-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.profile-main-info{
+    width: 95%;
+    box-shadow: 0px 0px 2px 1px rgb(226, 222, 222);
+}
+
+.profile-main-info p{
+
+}
+
+.id-number{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #282828;
+    padding: 5px;
+}
+
+.id-number p{
+    color: #f27b00;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 23.4px;
+}
+
+.prof-img-name-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 10px;
+    background-color: #FFF;
+}
+
+.prof-img-container img{
+    width: 150px;
+    margin-top: 10px;
+}
+
+.prof-name-container{
+    padding: 5px;
+}
+
+.prof-name-container p{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.course-container{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #282828;
+}
+
+.course-container p{
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    color: #f27b00;
+    line-height: 20px;
+}
+
+.vaccination-status-container{
+    display: flex;
+    flex-direction: column;
+    background-color: #34495e;
+    padding: 15px 0px;
+    margin-top: 2px;
+    width: 196px;
+    box-shadow: 0px 0px 2px 1px rgb(226, 222, 222);
+    margin-bottom: 5px;
+    
+}
+
+.vacc-status{
+    margin-bottom: 3px;
+}
+
+.vacc-status p{
+    color: #f39c12;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 20.8px;
+    margin-bottom: 1px;
+}
+
+.survey-container{
+    display: flex;
+    justify-content: center;
+}
+
+.survey-container fieldset{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid #ddd;
+    width: 155px;
+    margin-bottom: 3px;
+    
+}
+
+.survey-container legend{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-bottom: 10px ;
+}
+
+.survey-container p{
+    font-size: 12px;
+    margin-top: 1px;
+}

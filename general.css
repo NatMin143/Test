@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color: #f4f4f4;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+h2{
+    margin: 0px;
+}
+
+.body-content{
+    display: flex;
+    justify-content: center;
+}
+
+.main-content-container{
+    display: flex;
+    width: 90%;
+    flex-direction: row;
+}
+
+.left-sidebar{
+    height: auto;
+    width: 208px;
+}
+
+.main-content-wrapper{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+}
+
+

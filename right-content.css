@@ -1,0 +1,94 @@
+.right-content{
+    display: flex;
+    flex: 1;
+}
+
+.banner-container{
+    display: flex;
+    flex: 1;
+    padding: 11px 11.7px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: inset 0px 0px 1px 1px rgb(212, 205, 205) ;
+    
+}
+
+
+.banner{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    margin-bottom: 9px;
+}
+
+.banner-name{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 1px;
+}
+
+.banner-name p{
+    text-decoration: underline;
+    font-size: 19.5px;
+    font-weight: bold;
+    line-height: 20.8px;
+    cursor: pointer;
+    
+}
+
+.banner-name p:hover{
+    text-decoration: none;
+    color: #f27b00;
+}
+
+.banner-img{
+    display: flex;
+    height: 100%;
+}
+
+.banner-img img{
+    width: 100%;
+    cursor: pointer;
+}
+
+.satisfaction-survey{
+    margin-top: 22px;
+}
+
+.survey{
+    margin-bottom: 20px;
+}
+
+.survey p{
+    text-decoration: underline;
+    font-size: 19.5px;
+    font-weight: bold;
+    line-height: 20.8px;
+    cursor: pointer;
+}
+
+.survey p:hover{
+    text-decoration: none;
+    color: #f27b00;
+}
+
+.survey-date{
+    font-size: 11.96px;
+    color: rgb(102, 102, 102)
+}
+
+.survey-form {
+    font-size: 13px;
+    line-height: 28px;
+}
+
+.survey-form span{
+    text-decoration: underline;
+    margin-left: 7px;
+    cursor: pointer;
+}
+
+.survey-form span:hover{
+    text-decoration: none;
+    color: #f27b00;
+}

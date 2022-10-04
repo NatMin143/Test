@@ -1,0 +1,22 @@
+.header-container{
+}
+
+.top-header{
+    background-image: url("/myschoolclonehtml/images/bgheader.png");
+    height: 80px;
+
+}
+
+.top-header-img{
+    margin-top: 35px;
+    margin-left: 95px;
+}
+
+.low-header{
+    background-image: url("/myschoolclonehtml/images/lh_bg.png") ;
+    height: 20px;
+    margin-bottom: 25px;
+}
+
+
+
